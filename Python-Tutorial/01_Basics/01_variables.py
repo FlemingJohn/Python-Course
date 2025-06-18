@@ -2,7 +2,7 @@
 # A variable behaves as if it was the value it contains
 
 # String
-first_name = "Fleming"
+first_name = "Fleming John"
 food = "Curd Rice"
 email = "flemingjohn08@gmail.com"
 
