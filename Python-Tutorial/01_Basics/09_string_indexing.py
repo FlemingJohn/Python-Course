@@ -3,7 +3,7 @@
 
 name = input("Enter the some string char: ")
 
-# print the first value only
+#  print the first value only
 print(name[0]) 
 
 # print form 0 to before the index of 4
